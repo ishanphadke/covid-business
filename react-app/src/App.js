@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          LOL <code>src/App.js</code> this dont work.
         </p>
         <p>My Token = {window.token}</p>
         <a
